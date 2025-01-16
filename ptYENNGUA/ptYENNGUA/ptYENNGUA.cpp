@@ -63,5 +63,5 @@ void YENNGUA(int a[][100], int n, int m) {
 * output
 * 1
 * 2 2
-* note: 200/2000 full test uteoj
+* note: 200/200 full test uteoj
 */
