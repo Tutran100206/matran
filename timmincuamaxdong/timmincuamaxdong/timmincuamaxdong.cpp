@@ -45,5 +45,4 @@ void mincuamaxdong(int a[][100], int n, int m) {
 * 8 9 7 6
 * output
 * 5 
-* note: 200/200 full test uteoj
 */
